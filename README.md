@@ -1,7 +1,7 @@
 Integrantes:
 
-RM99404 - Thiago Garcia Tonato
-RM555502 - Ian Madeira Gonçalves da Silva
+RM99404 - Thiago Garcia Tonato /// RM555502 - Ian Madeira Gonçalves da Silva
+
 
 # API de Brinquedos
 
