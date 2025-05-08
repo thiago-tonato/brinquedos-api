@@ -46,7 +46,7 @@ src/main/java/com/fiap/brinquedos/
 
 ### 1. BrinquedoController
 
-- **Pacote**: `com.fiap.brinquedos.controller`
+- **Pacote**: `com.fiap.brinquedos_api.controller`
 - **Responsabilidade**: Gerencia as requisições HTTP e coordena as operações CRUD
 - **Métodos**:
   - `listarTodos()`: Retorna todos os brinquedos cadastrados
@@ -55,7 +55,7 @@ src/main/java/com/fiap/brinquedos/
 
 ### 2. Brinquedo
 
-- **Pacote**: `com.fiap.brinquedos.model`
+- **Pacote**: `com.fiap.brinquedos_api.model`
 - **Responsabilidade**: Representa a entidade de domínio Brinquedo
 - **Atributos**:
   - `id`: Identificador único (Long)
@@ -67,7 +67,7 @@ src/main/java/com/fiap/brinquedos/
 
 ### 3. BrinquedoRepository
 
-- **Pacote**: `com.fiap.brinquedos.repository`
+- **Pacote**: `com.fiap.brinquedos_api.repository`
 - **Responsabilidade**: Interface de persistência que estende JpaRepository
 - **Funcionalidades**: Fornece métodos padrão para operações CRUD
 
